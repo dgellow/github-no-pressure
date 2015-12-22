@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+
+    "name": "GitHub No Pressure",
+    "description": "Use GitHub without feeling guilty about streaks and other people activity",
+    "version": "0.1.0",
+    "content_scripts": [
+        {
+            "matches": ["*://github.com/*"],
+            "css": ["src/styles.css"],
+            "run_at": "document_start"
+        }
+    ]
+}

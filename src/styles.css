@@ -1,0 +1,17 @@
+/* Home: Followers feed */
+#dashboard > div.news.column.two-thirds {
+    visibility: hidden !important;
+}
+
+/* User profile: Contributions */
+#js-pjax-container > div > div > div.column.three-fourths > div.tab-content.js-repo-filter > div > div.boxed-group.flush {
+    opacity: 0.5 !important;
+}
+
+/* User profile: Contributions calendar and streak */
+#contributions-calendar > div.js-calendar-graph.is-graph-loading.graph-canvas.calendar-graph,
+#contributions-calendar > div.contrib-footer.clearfix,
+#contributions-calendar > div:nth-child(4),
+#contributions-calendar > div:nth-child(5) {
+    display: none !important;
+}
