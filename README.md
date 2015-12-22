@@ -6,7 +6,7 @@ This extension hides two distracting GitHub features:
 
 ## Installation
 
-Packages available in [releases tab](https://github.com/githubpluslove/no-pressure/releases).
+Packages are available in the [releases tab](https://github.com/githubpluslove/no-pressure/releases).
 
 For Chrome/Chromium:
 
@@ -14,7 +14,7 @@ Download the most recent version of `github-no-pressure.crx` and open it with Ch
 
 For Safari:
 
-> Sorry guys, my Safari is broken and crash every time I launch it. Still trying to figure out what’s the problem.
+Download `github-no-pressure.safariextz`, open it with Safari.
 
 ## Generate extensions
 
