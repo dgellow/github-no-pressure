@@ -6,7 +6,7 @@ This extension hides two distracting GitHub features:
 
 ## Installation
 
-Packages are available in the [releases tab](https://github.com/githubpluslove/no-pressure/releases).
+Packages are available in the [releases tab](https://github.com/devpluslove/github-no-pressure/releases).
 
 For Chrome/Chromium:
 
