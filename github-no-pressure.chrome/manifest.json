@@ -3,7 +3,7 @@
 
     "name": "GitHub No Pressure",
     "description": "Use GitHub without feeling guilty about streaks and other people activity",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "content_scripts": [
         {
             "matches": ["*://github.com/*"],
