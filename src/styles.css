@@ -9,9 +9,19 @@
 }
 
 /* User profile: Contributions calendar and streak */
-#contributions-calendar > div.js-calendar-graph.is-graph-loading.graph-canvas.calendar-graph,
-#contributions-calendar > div.contrib-footer.clearfix,
-#contributions-calendar > div:nth-child(4),
-#contributions-calendar > div:nth-child(5) {
+.overview-tab .boxed-group:nth-child(2) > h3 {
+    color: lightgrey !important;
+}
+
+#contributions-calendar .js-calendar-graph-svg,
+#contributions-calendar .contrib-footer{
     display: none !important;
+}
+
+#contributions-calendar .calendar-graph::after {
+    display: block;
+    font-size: 2rem;
+    padding-top: 32px;
+    content: "♥︎";
+    color: rgba(165, 165, 165, 0.72);
 }
