@@ -33,7 +33,7 @@ Open _Developer_ > _Show Extension Builder_ then click on the `+` at the bottom 
 ## Screenshots
 
 ![](http://i.imgur.com/Sr5k3PL.png)
-![](http://i.imgur.com/UYI5M3z.png)
+![](https://i.imgur.com/7zZkHti.png)
 
 ## Related
 
