@@ -10,7 +10,7 @@ Packages are available in the [releases tab](https://github.com/devpluslove/gith
 
 For Chrome/Chromium:
 
-Download the most recent version of `github-no-pressure.crx` and open it with Chrome/Chromium.
+[Install the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/github-no-pressure/jikpgmlegdfdlggecpchmjbdjjjmgmcb)
 
 For Safari:
 
