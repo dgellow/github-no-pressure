@@ -1,6 +1,30 @@
 /* Home: Followers feed */
+#dashboard::before {
+    content: "♥︎";
+    text-align: center;
+    display: block;
+    font-size: 4rem;
+    color: rgba(165, 165, 165, 0.721569);
+    padding: 40px;
+}
+
 #dashboard > div.news.column.two-thirds {
-    visibility: hidden !important;
+    display: none !important;
+}
+
+#dashboard .dashboard-sidebar {
+    width: 100% !important;
+}
+
+#dashboard .boxed-group {
+    margin-top: 100px !important;
+    width: 49% !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+}
+
+#dashboard .subscribe-feed {
+    display: block !important;
 }
 
 /* User profile: Contributions */
